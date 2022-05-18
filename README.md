@@ -11,7 +11,8 @@
 - 💼 FrontEnd Engineer at [Piecyfer](https://www.piecyfer.com/), [Upwork](https://www.upwork.com/freelancers/~0112c4272ea2911180/) 
 
 - ❤️ I love writing React JS, Next JS, React-TypeScript, Gatsby JS, and building fun experiments on type-level
-
+- 👯 Looking out for opportunities to collaborate in web dev and javascript projects  
+- ⚡ Fun fact : Love hanging out in open doors catching sunrise, sunsets and all things to do with sky 🌆  
 - 💬 Ask me about anything [here](mailto:salmanmoazam08@gmail.com)
 
 ### Languages:
