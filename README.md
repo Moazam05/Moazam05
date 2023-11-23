@@ -1,14 +1,14 @@
 
 
 <h1 align="center">Hi 👋, I'm  Salman Moazam</h1>
-<h3 align="center">A passionate frontend developer from Pakistan <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/whatsapp/326/flag-pakistan_1f1f5-1f1f0.png" align="center" alt="pakistan" width="25" height="25"/> </h3>
+<h3 align="center">A passionate Frontend Engineer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moazam05&label=Profile%20views&color=0e75b6&style=flat" alt="moazam05" /> </p>
 
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Digital web solution (DWS)](https://www.linkedin.com/in/moazam05/), [Upwork](https://www.upwork.com/freelancers/~0112c4272ea2911180/) 
+- 💼 FrontEnd Engineer at [Rising Technologies (RT)](https://www.linkedin.com/in/moazam05/)
 
 - ❤️ I love writing React JS, Next JS, React-TypeScript, Gatsby JS, and building fun experiments on type-level
 - 👯 Looking out for opportunities to collaborate in web dev and javascript projects  
