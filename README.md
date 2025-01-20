@@ -1,63 +1,53 @@
+# 👋 Hello, I'm Salman Moazam
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3F87F5&center=true&vCenter=true&repeat=true&width=435&lines=Frontend+Engineer;React+%7C+Next.js+%7C+React+Native;Full+Stack+Developer" alt="Typing SVG" />
+</div>
 
-<h1 align="center">Hi 👋, I'm  Salman Moazam</h1>
-<h3 align="center">A passionate Frontend Engineer from Pakistan</h3>
+## 👨‍💻 About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moazam05&label=Profile%20views&color=0e75b6&style=flat" alt="moazam05" /> </p>
+I'm a passionate Frontend Developer from Pakistan with 4+ years of experience specializing in building scalable and high-performance web applications. Currently working as a Frontend Engineer at Rising Technologies, focusing on creating exceptional user experiences.
 
+## 🛠️ Tech Stack
 
-**About me**
+### Frontend Development
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-- 💼 FrontEnd Engineer at [Rising Technologies (RT)](https://www.linkedin.com/in/moazam05/)
+### State Management & API
+![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Context API](https://img.shields.io/badge/-Context_API-61DAFB?style=flat-square&logo=react&logoColor=black)
+![RTK Query](https://img.shields.io/badge/-RTK_Query-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
 
-- ❤️ I love writing React JS, Next JS, React-TypeScript, Gatsby JS, and building fun experiments on type-level
-- 👯 Looking out for opportunities to collaborate in web dev and javascript projects  
-- ⚡ Fun fact : Love hanging out in open doors catching sunrise, sunsets and all things to do with sky 🌆  
-- 💬 Ask me about anything [here](mailto:salmanmoazam08@gmail.com)
+### UI Libraries & Styling
+![Material UI](https://img.shields.io/badge/-Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/-Ant_Design-0170FE?style=flat-square&logo=ant-design&logoColor=white)
+![Reactstrap](https://img.shields.io/badge/-Reactstrap-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 
-### Languages:
+### Backend & Database
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Strapi](https://img.shields.io/badge/-Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white)
 
-<p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a>
-</p>
+## 📊 GitHub Activity
 
-### Frontend:
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moazam05&theme=nord_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moazam05&theme=nord_dark"/>
+</div>
 
-<p align="left"> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <imgsrc="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="30" height="30"/> </a>
-<a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="30" height="30"/> </a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/> </a> 
-<a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://mui.com/static/logo.png" alt="material ui" width="30" height="30"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30"/> </a> 
-<a href="https://styled-components.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" alt="tailwind" width="30" height="30"/> </a> 
-</p>
+## 🤝 Let's Connect
 
-### UI:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moazam05/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salman.muazam.webdev@gmail.com)
+[![Phone](https://img.shields.io/badge/-+92_313_4866442-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923134866442)
 
-<p align="left"> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="30"/> </a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="30" height="30"/> </a>
-<a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="30" height="30"/> </a> 
-</p>
-
-
-### Code Versioning:
- 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
-<a href="https://tortoisesvn.net/" target="_blank" rel="noreferrer"> <img src="https://download.logo.wine/logo/Apache_Subversion/Apache_Subversion-Logo.wine.png" alt="svn" width="35" height="35"/> </a>
-  
-
-| <a href="https://github.com/moazam05/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=moazam05&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/moazam05/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moazam05&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moazam05&" alt="moazam05" /></p>
-
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=moazam05&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
